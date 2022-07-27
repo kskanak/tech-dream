@@ -12,3 +12,23 @@ body {
 
   --bs-navbar-toggler-focus-width: 0;
 }
+
+
+<div class="col">
+              <div class="course-card border border-2 rounded-3">
+                <div class="row">
+                  <div class="col-md-4 card-image">
+                    <img src="images/course/analytics.png" alt="" class="img-fluid rounded h-100">
+                  </div>
+                  <div class="col-md-8 card-content d-flex flex-column justify-content-center mt-sm-5">
+                    <h3 class="card-title fw-bold custom">UX Design</h3>
+                      <p class="card-text">
+                        UX (user experience) design is the process of designing
+                        products and experiences that are efficient, effective, and
+                        even delightful for users.
+                      </p>
+                      <p class="text-primary fw-semibold">Price : 20$</p>
+                  </div>
+                </div>
+              </div>
+            </div>
