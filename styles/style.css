@@ -12,3 +12,13 @@ body {
 
   --bs-navbar-toggler-focus-width: 0;
 }
+/* media query */
+@media screen and (max-width: 576px) {
+  .carousel-caption .btn {
+    font-size: 14px;
+    padding: 4px 5px;
+  }
+  .carousel-caption h1 {
+    font-size: 24px;
+  }
+}
